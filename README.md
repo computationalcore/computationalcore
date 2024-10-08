@@ -35,7 +35,7 @@ Curious about the world around me, I'm Vin Busquet, and I have been investigatin
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="computationalcore's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=computationalcore&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+      <img alt="computationalcore's GitHub Stats" src="https://github-readme-stats-ceig.vercel.app/api/?username=computationalcore&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="computationalcore's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=computationalcore&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
